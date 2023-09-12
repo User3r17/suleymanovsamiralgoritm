@@ -6,4 +6,4 @@ https://docs.google.com/document/d/1LXzIDSVe_9hi0jKnx0P9Fp_pgS3hrdNlIxx6sD_blNU/
 ХЫХЫХХЫХЫХТХЫХЫХЫХЫХХХАХАХАХАХХЫХЫХЫХХ Чунг
 # Заголовок 1 
 ~~Зачеркнутый текст~~
-### Заголовок 3
+__Жирный текст (bold)__

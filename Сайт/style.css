@@ -1,0 +1,233 @@
+body {
+background-image: url(images/back.png);
+		color: #fff;
+		background-attachment: fixed;
+		background-repeat: repeat-x;
+        background-size: 100%; 
+    }
+#name {
+    position: relative;
+    bottom: 20px;
+    left: 25px;
+}
+#head {
+    width: 240px;
+    height: 60px;
+    position: absolute;
+    top: 5%;
+    text-align: center;
+    margin: left;
+    background: rgb(45, 28, 39);
+    border: solid 1px rgb(27, 26, 24);
+    border-radius: 10px;
+    opacity: 0.8;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#navigation {
+    width: 500px;
+    height: 60px;
+    position: absolute;
+    top: 5%;
+    left: 46.51%;
+    text-align: center;
+    background: rgb(45, 28, 39);
+    border: solid 1px rgb(27, 26, 24);
+    border-radius: 10px;
+    opacity: 0.8;
+    font-size: 11.5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#main {
+    position: relative;
+    left: 10px;
+    bottom: 0px;
+    display:inline;
+    float:left;
+}
+#about {
+    position: relative;
+    float: left;
+    left: 25px;
+    bottom: 0px;
+}
+#code {
+    position: relative;
+    bottom: 0px;
+    right: 70px;
+}
+#info {
+    position: relative;
+    bottom: 57px;
+    left: 160px;
+}
+#container {
+    width: 900px;
+    height: 500px;
+    position: relative;
+    bottom: -100px;
+    text-align: center;
+    margin: auto;
+    background: rgb(45, 28, 39);
+    border: solid 1px rgb(27, 26, 24);
+    border-radius: 10px;
+    opacity: 0.8;
+}
+#container2 {
+    width: 900px;
+    height: 500px;
+    position: relative;
+    bottom: -120px;
+    text-align: center;
+    margin: auto;
+    background: rgb(45, 28, 39);
+    border: solid 1px rgb(27, 26, 24);
+    border-radius: 10px;
+    opacity: 0.8;
+    
+}
+#V {
+    width: 180px;
+    height: 180px;
+    position: relative;
+    top: -250px;
+    left: 300px;
+    margin: left;
+    background: rgb(45, 28, 39);
+    border: solid 1px rgb(27, 26, 24);
+    border-radius: 10px;
+    opacity: 0.8;
+    background-image: url(images/V.jpg);
+    background-size: cover;
+}
+#Vtext {
+    position: relative;
+    left: 300px;
+    top: -250px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#S {
+    width: 180px;
+    height: 180px;
+    position: relative;
+    top: -579px;
+    left: 525px;
+    background: rgb(45, 28, 39);
+    border: solid 1px rgb(27, 26, 24);
+    border-radius: 10px;
+    opacity: 0.8;
+    background-image: url(images/S.jpg);
+    background-size: cover; 
+}
+#Stext {
+    position: relative;
+    left: 530px;
+    top: -575px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#A {
+    width: 180px;
+    height: 180px;
+    position: relative;
+    top: -906px;
+    left: 750px;
+    background: rgb(45, 28, 39);
+    border: solid 1px rgb(27, 26, 24);
+    border-radius: 10px;
+    opacity: 0.8;
+    background-image: url(images/A.jpg);
+    background-size: cover; 
+}
+#Atext {
+    position: relative;
+    left: 750px;
+    top: -906px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#R {
+    width: 180px;
+    height: 180px;
+    position: relative;
+    top: -1232px;
+    left: 970px;
+    background: rgb(45, 28, 39);
+    border: solid 1px rgb(27, 26, 24);
+    border-radius: 10px;
+    opacity: 0.8;
+    background-image: url(images/R.jpg);
+    background-size: cover; 
+}
+#Rtext {
+    position: relative;
+    left: 970px;
+    top: -1232px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container3 {
+    width: 900px;
+    height: 1400px;
+    position: relative;
+    bottom: 1175px;
+    text-align: center;
+    margin: auto;
+    background: rgb(45, 28, 39);
+    border: solid 1px rgb(27, 26, 24);
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+#container4 {
+    width: 900px;
+    height: 500px;
+    position: relative;
+    bottom: 1150px;
+    text-align: center;
+    margin: auto;
+    background: rgb(45, 28, 39);
+    border: solid 1px rgb(27, 26, 24);
+    border-radius: 10px;
+    opacity: 0.8;
+}
+#Video {
+    width: 400px;
+    height: 300px;
+    position: relative;
+    bottom: 1550px;
+    left: 450px;
+    background: rgb(45, 28, 39);
+    border: solid 1px rgb(45, 28, 39);
+    border-radius: 10px;
+    opacity: 0,1;
+}
+#container5 {
+    width: 900px;
+    height: 100px;
+    position: relative;
+    bottom: 1450px;
+    text-align: center;
+    margin: auto;
+    background: rgb(27, 18, 24);
+    border: solid 1px rgb(27, 26, 24);
+    border-radius: 10px;
+    opacity: 0.9;
+}
+#con5text {
+    position: relative;
+    left: 550px;
+    top: -1520px;
+}
+#scr {
+    position: relative;
+    left: 325px;
+    bottom: 1900px;
+}
+#scr2 {
+    position: relative;
+    left: 325px;
+    bottom: 1430px;
+}
+#scr3 {
+    position: relative;
+    left: 325px;
+    bottom: 1430px;
+}

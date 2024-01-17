@@ -11,3 +11,4 @@ ___Жирный наклонный текст (bold italic)___
 https://freelance.habr.com/freelancers/Sam3r17
 https://docs.google.com/presentation/d/1JL98ZpXA96Ypz5ieKE5Zpoy_AGCI0mllz_RMFOVCvIo/edit?usp=sharing 
  https://drive.google.com/drive/folders/16Ls6pqOmuaUD_vSx9gStyQ5vs3FX-v7J?usp=sharing практика
+https://colab.research.google.com/drive/1HzZX1SFDfcofn8kDO9nTfS8l_x5Y7i7N?usp=sharing численные методы

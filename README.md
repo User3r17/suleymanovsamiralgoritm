@@ -15,3 +15,4 @@ https://colab.research.google.com/drive/1HzZX1SFDfcofn8kDO9nTfS8l_x5Y7i7N?usp=sh
 ![image](https://github.com/User3r17/suleymanovsamiralgoritm/assets/144117475/0d25ebe0-a397-46e5-83a3-feb309b42b63)
 ![image](https://github.com/User3r17/suleymanovsamiralgoritm/assets/144117475/177f3426-07a6-4182-a0a2-14fca85aff62)
 https://drive.google.com/drive/folders/1kcZt5xWyx7-PV8-VDX713ueMlb8HGWqr?usp=sharing код будущего
+![image](https://github.com/User3r17/suleymanovsamiralgoritm/assets/144117475/9a748f4d-c8d8-463c-99d0-e3d17cb5b9b3)

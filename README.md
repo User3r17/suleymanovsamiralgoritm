@@ -14,4 +14,4 @@ https://docs.google.com/presentation/d/1JL98ZpXA96Ypz5ieKE5Zpoy_AGCI0mllz_RMFOVC
 https://colab.research.google.com/drive/1HzZX1SFDfcofn8kDO9nTfS8l_x5Y7i7N?usp=sharing численные методы
 ![image](https://github.com/User3r17/suleymanovsamiralgoritm/assets/144117475/0d25ebe0-a397-46e5-83a3-feb309b42b63)
 ![image](https://github.com/User3r17/suleymanovsamiralgoritm/assets/144117475/177f3426-07a6-4182-a0a2-14fca85aff62)
-
+https://drive.google.com/drive/folders/1kcZt5xWyx7-PV8-VDX713ueMlb8HGWqr?usp=sharing код будущего

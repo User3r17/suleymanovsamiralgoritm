@@ -1,4 +1,9 @@
 # suleymanovsamiralgoritm
+![image](https://github.com/User3r17/suleymanovsamiralgoritm/assets/144117475/95a4ba86-f957-499b-8973-d7c3bc0c3b72)
+![image](https://github.com/User3r17/suleymanovsamiralgoritm/assets/144117475/9508a056-f274-4359-a2f0-e0d7337da9e5)
+![image](https://github.com/User3r17/suleymanovsamiralgoritm/assets/144117475/ad29b4fb-f202-4fec-a473-f93f89563e32)
+
+
 план 
 https://github.com/GnuriaN/format-README
 https://docs.google.com/document/d/1LXzIDSVe_9hi0jKnx0P9Fp_pgS3hrdNlIxx6sD_blNU/edit?usp=sharing
